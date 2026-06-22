@@ -4,6 +4,14 @@ Maskan is a modern, responsive, and visually polished real estate web applicatio
 
 ---
 
+# Project Team
+this project was developed collaboratively by :
+- [Essam-Sleem](https://github.com/Essam-Sleem)
+- [MrF-codexx](https://github.com/MrF-codexx)
+- [BelalWaheed](https://github.com/BelalWaheed)
+
+---
+
 ## 1. Project Architecture and File Structure
 
 The project is structured as a multi-page static website, ensuring fast load times and clean separation of concerns. Below is a breakdown of the key files in the codebase and their corresponding roles:
